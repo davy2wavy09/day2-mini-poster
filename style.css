@@ -1,25 +1,25 @@
 .poster {
-  width: ________;
-  padding: ________;
-  border: ________ solid ________;
-  margin: ________;
-  background-color: ________;
-  height: ________; /* optional */
+  width: 140px;
+  padding: 65px;
+  border: 70px solid 60px;
+  margin: 70x;
+  background-color: green;
+  height: 220px; /* optional */
 }
 h1 {
-  font-size: ________;
+  font-size: 55px;
   text-align: center;
-  color: ________;
+  color: black;
 }
 
 h3 {
-  font-size: ________;
+  font-size: 47px;
   text-align: center;
-  color: ________;
+  color: black;
 }
 
 p {
-  font-size: ________;
-  text-align: ________;
-  color: ________;
+  font-size: 40px;
+  text-align: left;
+  color: black;
 }
