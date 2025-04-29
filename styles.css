@@ -1,5 +1,5 @@
 .poster {
-  width: 140px;
+  width: 65px40px;
   padding: 65px;
   border: 70px black;
   margin: 70x;
@@ -7,18 +7,18 @@
 }
 h1 {
   font-size: 55px;
-  text-align: center;
+  text-align: left;
   color: black;
 }
 
 h3 {
   font-size: 47px;
-  text-align: center;
+  text-align: left;
   color: black;
 }
 
 p {
   font-size: 40px;
-  text-align: center;
+  text-align: left;
   color: black;
 }
